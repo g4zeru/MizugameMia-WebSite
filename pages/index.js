@@ -48,6 +48,12 @@ export default function Home() {
             </p>
           </a>
         </div>
+        <div className={styles.test}>
+          いろはにほへと散りぬるを
+        </div>
+        <div>
+          いろはにほへと散りぬるを
+        </div>
       </main>
 
       <footer className={styles.footer}>
