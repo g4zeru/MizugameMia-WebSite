@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 非公式水瓶ミアファンサイト
+純粋なファンとしてサイトを立ち上げました。
+**非公式なので何か問題が発生した場合や異議申し立てがあった場合など予告なしでクローズさせていただきます。**
+ご連絡は[こちら](https://twitter.com/tera_ny)までお願いします。
 
 ## Getting Started
 
