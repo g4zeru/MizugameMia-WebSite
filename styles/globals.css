@@ -2,6 +2,8 @@ html,
 body {
   padding: 0;
   margin: 0;
+  -ms-overflow-style: none;
+  overflow: -moz-scrollbars-none;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -22,4 +24,10 @@ html::-webkit-scrollbar {
 hr {
   width: 80%;
   border: 1px solid #98DAF4;
+}
+
+footer {
+  background-color: #98DAF4;
+  display: flex;
+  justify-content: center;
 }

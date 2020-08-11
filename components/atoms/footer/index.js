@@ -3,7 +3,7 @@ import * as styles from './styles.module.css'
 const AppFooter = () => {
     return (
         <footer>
-            <div className={styles.topFooter}>
+            <div className={styles.footerContents}>
                 <a
                     href="https://github.com/g4zeru/MizugameMia-WebSite/blob/master/README.md"
                     target="_blank"
@@ -28,16 +28,6 @@ const AppFooter = () => {
                         <img src="/github_white.svg" className={styles.snsIcon} />
                     </a>
                 </div>
-            </div>
-            <div className={styles.bottomFotter}>
-                <a
-                    href="https://vercel.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Powered by{' '}
-                    <img src="/vercel.svg" alt="Vercel Logo" className={styles.vercelIcon} />
-                </a>
             </div>
         </footer>
     )

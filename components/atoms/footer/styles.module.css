@@ -1,22 +1,9 @@
-.topFooter {
-    background-color: #98DAF4;
+.footerContents {
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-
-.bottomFotter {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.topFooter, .bottomFotter {
-    padding: 35px 200px;
-}
-
-.vercelIcon {
-    height: 1em;
+    max-width: 720px;
+    width: 80%;
 }
 
 .about {
