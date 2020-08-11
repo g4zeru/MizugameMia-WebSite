@@ -8,6 +8,7 @@ const AppFooter = () => {
                     href="https://github.com/g4zeru/MizugameMia-WebSite/blob/master/README.md"
                     target="_blank"
                     rel="noopener noreferrer"
+                    className={styles.about}
                 >
                     About this page
                 </a>
