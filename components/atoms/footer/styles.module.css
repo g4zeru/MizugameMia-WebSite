@@ -1,0 +1,38 @@
+.topFooter {
+    background-color: #98DAF4;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bottomFotter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topFooter, .bottomFotter {
+    padding: 35px 200px;
+}
+
+.vercelIcon {
+    height: 1em;
+}
+
+.about {
+    color: white;
+    font-family: bio-sans, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.iconContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.snsIcon {
+    height: 50px;
+}

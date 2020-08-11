@@ -1,0 +1,57 @@
+.borderContainer {
+    border: 20px solid #98DAF4;
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100%;
+}
+
+.titleContainer {
+    margin-left: 358px;
+    display: flex;
+    height: 100%;
+    width: 276px;
+    background-color: #98DAF4;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    margin: 0px;
+    font-weight: 800;
+    font-size: 36px;
+    color: white;
+}
+
+.subTitle {
+    margin: 0px;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+}
+
+.lifeSizeImage {
+    width: 398px;
+    height: 748px;
+    left: 758px;
+    bottom: 20px;
+    position: absolute;
+}
+
+.vioContents > p {
+    text-align: center;
+}
+
+.recommendProductsContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.recommendProducts {
+    display: flex;
+    width: 80%;
+    justify-content: space-around
+}
+
+.vioContents, .recommendProductsContainer {
+    padding-bottom: 84px;
+}
