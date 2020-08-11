@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+html::-webkit-scrollbar {
+  display:none;
+}
+
+hr {
+  width: 80%;
+  border: 1px solid #98DAF4;
+}
