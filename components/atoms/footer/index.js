@@ -4,7 +4,12 @@ const AppFooter = () => {
     return (
         <footer>
             <div className={styles.topFooter}>
-                <a>
+                <a
+                    href="https://github.com/g4zeru/MizugameMia-WebSite/blob/master/README.md"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    About this page
                 </a>
                 <div className={styles.iconContainer}>
                     <a
