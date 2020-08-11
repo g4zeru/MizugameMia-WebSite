@@ -9,9 +9,8 @@ const Home = () => {
                         <h1 className={styles.title}>水瓶ミア</h1>
                         <h2 className={styles.subTitle}>Mia Mizugame</h2>
                     </div>
-                    <img src="https://v-clan.jp/wp/wp-content/uploads/2020/05/fab5097d3c815a8a4fd0f66dbb6298aa-640x1163.jpg" className={styles.lifeSizeImage} />
                 </div>
-                <img src="" />
+                <img src="https://v-clan.jp/wp/wp-content/uploads/2020/05/fab5097d3c815a8a4fd0f66dbb6298aa-640x1163.jpg" className={styles.lifeSizeImage} />
             </div>
             <SectionBox title="About">
                 <div className={styles.vioContents}>

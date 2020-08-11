@@ -3,10 +3,12 @@
     box-sizing: border-box;
     height: 100vh;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 
 .titleContainer {
-    margin-left: 358px;
     display: flex;
     height: 100%;
     width: 276px;
@@ -32,9 +34,8 @@
 .lifeSizeImage {
     width: 398px;
     height: 748px;
-    left: 758px;
     bottom: 20px;
-    position: absolute;
+    margin-left: 125px;
 }
 
 .vioContents > p {
